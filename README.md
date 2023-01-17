@@ -1,5 +1,8 @@
 # GCRF Student Progress Checker
-This Application automates the Manual GCR facilitator daily student report generation. This application was developed based on data received from the 2022 daily student report sent from Google Cloud. Hence this is best compatible with the 2022 GCRF daily student report.
+The GCRF Student Progress Checker is a web application that automates the process of generating daily student reports for GCR facilitators. It is designed to work with data received from the 2022 daily student report sent from Google Cloud, making it most compatible with the 2022 GCRF daily student report format. This application eliminates the need for manual report generation and saves time and resources. It allows GCR facilitators to easily track and monitor student progress, making it an efficient tool for managing student performance.
+
+
+
 
 See the application here: https://gcrf-chandigarhuniversity-2022.web.app/
 
