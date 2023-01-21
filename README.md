@@ -1,9 +1,6 @@
 # GCRF Student Progress Checker
 The GCRF Student Progress Checker is a web application that automates the process of generating daily student reports for GCR facilitators. It is designed to work with data received from the 2022 daily student report sent from Google Cloud, making it most compatible with the 2022 GCRF daily student report format. This application eliminates the need for manual report generation and saves time and resources. It allows GCR facilitators to easily track and monitor student progress, making it an efficient tool for managing student performance.
 
-
-
-
 See the application here: https://gcrf-chandigarhuniversity-2022.web.app/
 
 You can use below registered mail Ids: 
@@ -12,11 +9,9 @@ You can use below registered mail Ids:
 - soham25.official@gmail.com
 - geniusavinashraj@gmail.com
 
-
 ## Authors
 
 - [@Satyamkumarnavneet](https://github.com/Satyamkumarnavneet)
-
 
 ## Run Locally
 
@@ -56,7 +51,6 @@ You will see the server running on `localhost:3000`
 
 - Open the web browser and goto `localhost:3000` to test the application.
 
-
 ## Deployment
 
 To deploy this project follow the step properly!
@@ -73,10 +67,12 @@ To deploy this project follow the step properly!
 - Follow the on-screen instructions. First, install Firebase tools as shown instruction.
 - After installation of the Firebase tool, goto the terminal and navigate to the project folder. Then initialize the project as shown in the instructions. 
 
+## Support 
+For support, email navneetsatyamkumar@gmail.com.com
+
 ## Feedback
 
 If you have any feedback, please reach out to us at navneetsatyamkumar@gmail.com 
-
 
 ## Screenshots
 
